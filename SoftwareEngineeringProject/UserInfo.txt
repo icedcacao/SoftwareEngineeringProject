@@ -1,0 +1,4 @@
+icedcacao icedcacaopassword RegFaculty
+hotcacao hotcacaopassword TempFaculty
+mahiro mahiropassword Chair
+boris borispassword Dean
